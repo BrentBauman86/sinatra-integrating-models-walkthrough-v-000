@@ -38,6 +38,6 @@ class TextAnalyzer
       end
     end
 
-    biggest
+    biggest = [most_used_letter, letter_count]
   end
 end
